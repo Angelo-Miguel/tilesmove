@@ -1,0 +1,32 @@
+table,
+td,
+tr {
+    border: 1px solid #f00;
+    border-collapse: collapse;
+}
+
+td {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.selected {
+    background-color: #0ff;
+}
+
+/* debug */
+.debug {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    background-color: aliceblue;
+}
+
+td:hover{
+    background-color: #d5d5d5;
+}
+
+.a{
+    background-color: #f00;
+}
