@@ -23,4 +23,4 @@ assets/  \
 
 ## Como rodar
 
-1. Acesse o [link](angelo-miguel.github.io/tilesmove/)
+1. Acesse o [link](https://angelo-miguel.github.io/tilesmove/)
