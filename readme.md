@@ -3,14 +3,17 @@
 Um pequeno projeto web para movimentação de tiles em uma grade usando teclado e mouse.
 
 ## Estrutura do Projeto
-index.html  \
-assets/  \
-├── css/  \
-│   ├── reset.css  \
-│   └── style.css  \
-├── js/  \
-│   ├── genTiles.js\
-│   └── script.js  
+```
+.
+├── assets/                   # Diretório com recursos estáticos (CSS e JS)
+│   ├── css/                  # Estilos do projeto
+│   │   ├── reset.css         # Reset de estilos para padronizar entre navegadores
+│   │   └── style.css         # Estilos personalizados do layout e elementos
+│   └── js/                   # Scripts JavaScript
+│       ├── genTiles.js       # Geração dinâmica dos blocos/tiles do jogo ou interface
+│       └── script.js         # Script principal com lógica de interação ou animações
+└── index.html                # Página HTML principal do projeto
+```
 
 ## Como funciona
 
